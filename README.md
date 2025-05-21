@@ -10,7 +10,7 @@ To create Library Management System software that will meet the needs of the app
 
 # DIAGRAMS:
 
-# USECASE DIAGRAM:
+# USECASE DIAGRAM: 
 
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/d071bf01-2e6a-459e-8909-23c8f9b6bbb6)
 
